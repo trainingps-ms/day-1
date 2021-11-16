@@ -3,4 +3,8 @@ line2
 l3
 By priyanshu
 By Mannat
+<<<<<<< HEAD
 What to do
+=======
+Hello again
+>>>>>>> 1d0cdc05e69f88676fe1901e68d335cab46dc24a
